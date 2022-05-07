@@ -1,0 +1,10 @@
+C:\Users\vm\Documents\Projects\nuget_matcher\NugetCheck\NugetCheck\bin\Debug\NugetCheck.exe.config
+C:\Users\vm\Documents\Projects\nuget_matcher\NugetCheck\NugetCheck\bin\Debug\NugetCheck.exe
+C:\Users\vm\Documents\Projects\nuget_matcher\NugetCheck\NugetCheck\bin\Debug\NugetCheck.pdb
+C:\Users\vm\Documents\Projects\nuget_matcher\NugetCheck\NugetCheck\bin\Debug\Microsoft.Web.XmlTransform.dll
+C:\Users\vm\Documents\Projects\nuget_matcher\NugetCheck\NugetCheck\bin\Debug\NuGet.Core.dll
+C:\Users\vm\Documents\Projects\nuget_matcher\NugetCheck\NugetCheck\obj\Debug\NugetCheck.csproj.AssemblyReference.cache
+C:\Users\vm\Documents\Projects\nuget_matcher\NugetCheck\NugetCheck\obj\Debug\NugetCheck.csproj.CoreCompileInputs.cache
+C:\Users\vm\Documents\Projects\nuget_matcher\NugetCheck\NugetCheck\obj\Debug\NugetCheck.csproj.CopyComplete
+C:\Users\vm\Documents\Projects\nuget_matcher\NugetCheck\NugetCheck\obj\Debug\NugetCheck.exe
+C:\Users\vm\Documents\Projects\nuget_matcher\NugetCheck\NugetCheck\obj\Debug\NugetCheck.pdb

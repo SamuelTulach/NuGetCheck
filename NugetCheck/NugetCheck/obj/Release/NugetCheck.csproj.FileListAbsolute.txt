@@ -1,0 +1,9 @@
+C:\Users\vm\Documents\Projects\nuget_matcher\NugetCheck\NugetCheck\bin\Release\NugetCheck.exe.config
+C:\Users\vm\Documents\Projects\nuget_matcher\NugetCheck\NugetCheck\bin\Release\NugetCheck.exe
+C:\Users\vm\Documents\Projects\nuget_matcher\NugetCheck\NugetCheck\bin\Release\NugetCheck.pdb
+C:\Users\vm\Documents\Projects\nuget_matcher\NugetCheck\NugetCheck\bin\Release\Microsoft.Web.XmlTransform.dll
+C:\Users\vm\Documents\Projects\nuget_matcher\NugetCheck\NugetCheck\bin\Release\NuGet.Core.dll
+C:\Users\vm\Documents\Projects\nuget_matcher\NugetCheck\NugetCheck\obj\Release\NugetCheck.csproj.CoreCompileInputs.cache
+C:\Users\vm\Documents\Projects\nuget_matcher\NugetCheck\NugetCheck\obj\Release\NugetCheck.csproj.CopyComplete
+C:\Users\vm\Documents\Projects\nuget_matcher\NugetCheck\NugetCheck\obj\Release\NugetCheck.exe
+C:\Users\vm\Documents\Projects\nuget_matcher\NugetCheck\NugetCheck\obj\Release\NugetCheck.pdb
